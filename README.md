@@ -1,4 +1,4 @@
-Hi👋, I'm Shweta Narayanan
+
 <h1 align="center">Hi 👋, I'm Shweta Narayanan</h1>
 
 <h3 align="center" style="color:#E50914;">
