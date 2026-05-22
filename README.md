@@ -1,12 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Shweta+Narayanan;AI+%26+Machine+Learning+Explorer;Problem+Solver+%F0%9F%94%A5;Tech+%26+AI+Enthusiast+%F0%9F%A4%96" />
-</h1>
-
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
-  <br/>
-  👋 Hi, I'm <span style="color:#00f7ff">Shweta Narayanan</span>
-</h1>
+Hi👋, I'm Shweta Narayanan
+<h1 align="center">Hi 👋, I'm Shweta Narayanan</h1>
 
 <h3 align="center" style="color:#E50914;">
   🎬 Welcome to my Developer Portfolio
